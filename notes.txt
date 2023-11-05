@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/graph/tutorials/python?tabs=aad&tutorial-step=1
+
+https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationMenuBlade/~/Overview/quickStartType~/null/sourceType/Microsoft_AAD_IAM/appId/8fc6ee41-923a-42cb-b093-9ddd64eda02b/objectId/84a40eed-8594-46bd-b2f6-219ecfd9eded/isMSAApp~/true/defaultBlade/Overview/appSignInAudience/AzureADandPersonalMicrosoftAccount
+
